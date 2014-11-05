@@ -1,0 +1,76 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "RichardG",
+    "longName": "Day Widget",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/icon.png",
+                "menuIcon": true,
+                "name": "IMAGE_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/9.png",
+                "name": "IMAGE_9",
+                "type": "png"
+            },
+            {
+                "file": "images/8.png",
+                "name": "IMAGE_8",
+                "type": "png"
+            },
+            {
+                "file": "images/7.png",
+                "name": "IMAGE_7",
+                "type": "png"
+            },
+            {
+                "file": "images/6.png",
+                "name": "IMAGE_6",
+                "type": "png"
+            },
+            {
+                "file": "images/5.png",
+                "name": "IMAGE_5",
+                "type": "png"
+            },
+            {
+                "file": "images/4.png",
+                "name": "IMAGE_4",
+                "type": "png"
+            },
+            {
+                "file": "images/3.png",
+                "name": "IMAGE_3",
+                "type": "png"
+            },
+            {
+                "file": "images/2.png",
+                "name": "IMAGE_2",
+                "type": "png"
+            },
+            {
+                "file": "images/1.png",
+                "name": "IMAGE_1",
+                "type": "png"
+            },
+            {
+                "file": "images/0.png",
+                "name": "IMAGE_0",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Day Widget",
+    "uuid": "0df621a2-54c4-48ce-b6b8-8180ae284dd8",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
